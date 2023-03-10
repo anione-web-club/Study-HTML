@@ -1,0 +1,14 @@
+.space {
+    width: 100%;
+    height: 200px;
+}
+
+.title {
+    padding-left: 50px;
+}
+
+.nextButton {
+    width: 500px;
+    height: 50px;
+    font-size: 15px;
+}
